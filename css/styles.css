@@ -34,6 +34,7 @@ h4, p {
 /* Boxes */
 .box-primary {
   display: flex;
+  height: 1500;
   width: 100%;
   background: #13181b;
   flex-flow: column;
