@@ -11,12 +11,11 @@ h1 {
   /* color: linear-gradient(90deg, rgba(50,205,50,1) 0%, rgba(0,212,255,1) 100%); */
 }
 
-h1:hover {
+/* h1:hover {
   background: -webkit-linear-gradient(#ff4d00, #ffb700);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  /* color: linear-gradient(90deg, rgba(50,205,50,1) 0%, rgba(0,212,255,1) 100%); */
-}
+} */
 
 h3 {
   color: white;
@@ -294,4 +293,16 @@ tr, table, td {
   color: white;
   border: 1px solid white;
   border-collapse: collapse;
+}
+.accepted {
+  color: #00ff5e;
+}
+.rejected {
+  color: #ff0015;
+}
+.deferred {
+  color: #ffa600;
+}
+.pending {
+  color: #5ed0f2;
 }
