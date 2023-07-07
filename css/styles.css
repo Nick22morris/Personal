@@ -33,7 +33,7 @@ h4, p {
 /* Boxes */
 .box-primary {
   display: flex;
-  height: 1500;
+  height: 100vh;
   width: 100%;
   background: #13181b;
   flex-flow: column;
@@ -43,7 +43,7 @@ h4, p {
 
 .box-secondary {
   display: flex;
-  height: 800px;
+  height: 100vh;
   width: 100%;
   background-color: #20292e;
   flex-flow: column;
